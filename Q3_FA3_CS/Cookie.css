@@ -1,0 +1,36 @@
+
+        body {
+              
+            font-family: Georgia, serif;
+            background-image: url("https://i.pinimg.com/736x/62/86/31/628631681824df2d6094d773281f6c75.jpg");            
+            text-align: center;
+        }
+        h1
+            {
+            font-size: 50px;
+            color:black;
+            font-family:Lucida Handwriting,cursive;
+            }
+        .flavor-box {
+            display: inline-block;
+            border: 2px dotted #343a40;
+            border-radius: 10px;
+            padding: 20px;
+            margin: 10px;
+            background-color:#8f8f24;
+            color:white;
+            font-size:25px;
+        }
+        .result {
+            display: inline-block;
+            border: 2px dashed #343a40;
+            border-radius: 10px;
+            padding: 20px;
+            background-color: #f6d4ae;
+            color:#47461a;
+            margin-top: 20px;
+            font-size: 20px;
+            text-align: center;
+            line-height:1.5;
+
+        }
